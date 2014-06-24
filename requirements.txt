@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+simplejson
+jinja2
+nose
+sklearn

@@ -1,0 +1,6 @@
+.DS_Store
+*.sublime-workspace
+ext
+data
+writeup/**/paper.*
+.ipynb_checkpoints

@@ -1,0 +1,10 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/sergeyk/work/timely_classification",
+            "folder_exclude_patterns": ["ext", "data"],
+            "file_exclude_patterns": ["*.mat", "*.pickle", "*.h5"]
+		}
+	]
+}
